@@ -1,0 +1,16 @@
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\obj\Debug\net5.0\FavoriteThings.csproj.AssemblyReference.cache
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\obj\Debug\net5.0\FavoriteThings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\obj\Debug\net5.0\FavoriteThings.AssemblyInfoInputs.cache
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\obj\Debug\net5.0\FavoriteThings.AssemblyInfo.cs
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\obj\Debug\net5.0\FavoriteThings.csproj.CoreCompileInputs.cache
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\bin\Debug\net5.0\FavoriteThings.exe
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\bin\Debug\net5.0\FavoriteThings.deps.json
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\bin\Debug\net5.0\FavoriteThings.runtimeconfig.json
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\bin\Debug\net5.0\FavoriteThings.runtimeconfig.dev.json
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\bin\Debug\net5.0\FavoriteThings.dll
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\bin\Debug\net5.0\ref\FavoriteThings.dll
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\bin\Debug\net5.0\FavoriteThings.pdb
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\obj\Debug\net5.0\FavoriteThings.dll
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\obj\Debug\net5.0\ref\FavoriteThings.dll
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\obj\Debug\net5.0\FavoriteThings.pdb
+C:\Users\honey\source\repos\FavoriteThings\FavoriteThings\obj\Debug\net5.0\FavoriteThings.genruntimeconfig.cache
